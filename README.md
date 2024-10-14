@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sameer
+- 👀 I’m interested in software developing
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate with IT based companies
+- 📫 you can reach me via. email:-ravindra9819051217@gmail.com
